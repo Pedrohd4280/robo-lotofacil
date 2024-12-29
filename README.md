@@ -20,7 +20,7 @@ Sistema de geração de jogos para Lotofácil utilizando Inteligência Artificia
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/robo-lotofacil.git
+git clone https://github.com/Pedrohd4280/robo-lotofacil.git
 cd robo-lotofacil
 ```
 
@@ -64,4 +64,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✨ Autor
 
-Desenvolvido por [Seu Nome] 
+Desenvolvido por Pedro Feliciano 
